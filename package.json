@@ -1,0 +1,11 @@
+{
+  "name": "io13-notifier",
+  "description": "Scrapes sources about #io13 to get notified about news",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "underscore": "*",
+    "request": "*",
+    "pushover-notifications": "*"
+  }
+}
