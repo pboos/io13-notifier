@@ -62,4 +62,4 @@ setInterval(function() {
     if (err) { return; }
     handleItem(item);
   });
-}, 1000);
+}, 60 * 1000);
