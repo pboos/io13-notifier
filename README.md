@@ -20,5 +20,6 @@ vim config.json
 Just run
 
 ```shell
+npm install
 node app.js
 ```
